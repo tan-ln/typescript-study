@@ -1,1 +1,3 @@
-let num: number = 123
+import './example/basic-type'
+
+const num:number = 111

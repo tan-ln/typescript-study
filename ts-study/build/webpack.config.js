@@ -28,7 +28,8 @@ module.exports = {
     }),
     new HtmlWebpackPlugin({
       // 指定编译模板入口文件
-      template: './index.html'
+      template: './index.html',
+      favicon: './build/favicon-32x32.png'
     })
   ],
   // 方便开发阶段调试的时候定位代码位置，生产上线后不需要

@@ -112,3 +112,9 @@ const getLength = (target: string | number): number => {
 console.log(getLength(123))
 console.log(getLength('123123'))
 ```
+
+## 使用 ESlint
+`npm install eslint -D`
+> `TSLint` 和 `ESLint` 功能一致，有这大量重复的代码，不再继续维护，推荐使用ESLint来替代
+
+安装完成后, `yarn eslint --init` 自定义设置，生成 `eslintrc.json`

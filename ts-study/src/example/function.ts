@@ -9,7 +9,7 @@ type Add = (x: number, y: number) => number
 let addFun: Add = (x: number, y: number) => x + y
 
 // 可选参数
-// 必须在比选参数后
+// 必须在必选参数后
 type AddFunction = (arg1: number, arg2: number, arg3?: number) => number
 let addFunction: AddFunction = (x: number, y: number) => x + y
 let addFunction2: AddFunction = (x: number, y: number, z?: number) => x + y + (z || 0)

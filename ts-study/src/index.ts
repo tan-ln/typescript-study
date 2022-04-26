@@ -8,6 +8,8 @@
 // import './example/inference'
 // import './example/advance-type/1'
 // import './example/advance-type/2'
-import './example/advance-type/3'
+// import './example/advance-type/3'
+// import './example/advance-type/4'
+import './example/advance-type/5'
 
 const num: number = 111

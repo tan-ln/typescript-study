@@ -10,6 +10,8 @@
 // import './example/advance-type/2'
 // import './example/advance-type/3'
 // import './example/advance-type/4'
-import './example/advance-type/5'
+// import './example/advance-type/5'
+// import './example/modules/ES6/index'
+import './example/modules/Ts-modules/index'
 
 const num: number = 111

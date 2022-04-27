@@ -13,6 +13,7 @@
 // import './example/advance-type/5'
 // import './example/modules/ES6/index'
 // import './example/modules/Ts-modules/index'
-import './example/statement'
+// import './example/statement'
+import './example/mixin'
 
 const num: number = 111

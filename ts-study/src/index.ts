@@ -12,6 +12,7 @@
 // import './example/advance-type/4'
 // import './example/advance-type/5'
 // import './example/modules/ES6/index'
-import './example/modules/Ts-modules/index'
+// import './example/modules/Ts-modules/index'
+import './example/statement'
 
 const num: number = 111

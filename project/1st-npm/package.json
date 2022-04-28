@@ -1,0 +1,15 @@
+{
+  "name": "1st-npm-arrymap",
+  "version": "1.0.0",
+  "description": "1st-npm-package try",
+  "main": "./dist/1st-npm-arrymap.js",
+  "scripts": {},
+  "keywords": [
+    "typescript"
+  ],
+  "author": "tan_ln <tan_ln@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}

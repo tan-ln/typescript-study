@@ -100,5 +100,10 @@
     /* Completeness */
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
-  }
+  },
+  // "files": [],    // 配置一个数组列表，包含指定文件的相对路径或绝对路径，编译器在编译时只会编译包含在 files 中的项；如不指定，则取决于 includes 选项；如果没有 includes 选项，则默认编译根目录以及所有子目录文件；路径必须是 指定文件，而非 文件夹，且不能使用 * ? **/ 等通配符
+  // "include": [],   // 路径可以是文件夹，也可以是文件，可以使用 相对路径，可以使用通配符，如 "./src"
+  // "exclude": [],   // 反之，
+  // "extends": "",   // 指定一个其他的 配置文件 路径，用于继承；相同配置则覆盖
+  // "compileOnSave": false, // or true
 }
